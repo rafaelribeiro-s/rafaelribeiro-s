@@ -66,7 +66,7 @@ A collection of hands-on labs and simulated IT support scenarios covering:
 ## 🎓 Certifications & Training
 
 **Completed**
-- Google Cybersecurity Professional Certificate — Feb 2026 · [View Certificate](https://www.coursera.org/account/accomplishments/professional/certificate/6ZBGHKX09RB2)
+- Google Cybersecurity Professional Certificate — Feb 2026 · [View Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/6ZBGHKX09RB2)
 - Cisco Introduction to Cybersecurity — Mar 2026 · [View Badge](https://www.credly.com/badges/aa6b945f-e79a-4d93-8dc4-2aa0435618ca/linked_in_profile)
 - Riachuelo Cybersecurity Bootcamp — Apr 2026 · [View Certificate](https://www.dio.me/certificate/EXLLHREC/share)
 - Santander 2026 Rust AI Developer — Aug 2026 · [View Certificate](https://www.dio.me/certificate/CUIEHS1P/share)
